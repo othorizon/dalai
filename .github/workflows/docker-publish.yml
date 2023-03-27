@@ -39,3 +39,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
+          tags: itrizon/dalai:latest
